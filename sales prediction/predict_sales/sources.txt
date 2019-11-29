@@ -1,0 +1,5 @@
+https://github.com/abhinavsagar/Machine-Learning-Deployment-Tutorials
+
+https://www.kdnuggets.com/2019/10/easily-deploy-machine-learning-models-using-flask.html
+
+https://medium.com/datadriveninvestor/deploy-your-machine-learning-model-using-flask-made-easy-now-635d2f12c50c
